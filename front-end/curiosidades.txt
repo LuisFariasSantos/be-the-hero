@@ -1,1 +1,0 @@
-para iniciar uma aplicação react, damos o comando npm start 
